@@ -16,7 +16,10 @@ The scenario in this automation consists of some features:
 
 ## How to Run?
 1. Clone the repository
-2. Go to the reposiotry automation and open in the Editor
+```
+git clone git@github.com:OlviLora/herokuapp_automation.git
+```
+2. Go to the repository automation and open in the Editor
 3. **Add Selenium Jar** → Click go to File → Project Structure → in a project setting tab look for Modules → Dependencies → Click on ‘+’ Sign → Select for JARs or directories
 4. **Open file scenario** → Open on the folder `/src/main/java/automation_login`.
 5. **Update the location on the chromedriver**
