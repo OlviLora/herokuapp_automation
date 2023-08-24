@@ -7,6 +7,13 @@ The scenario in this automation consists of some features:
 2. Invalid username and valid password → user is failed logged in to herokuapp web and see error message.
 3. Valid username and invalid password → user is failed logged in to herokuapp web and see error message.
 
+## Prerequisites
+- Java
+- Selenium
+- Chromedriver
+- Editor Intellij/Eclipse
+- Git
+
 ## How to Run?
 1. **Add Selenium Jar** → Click go to File → Project Structure → in a project setting tab look for Modules → Dependencies → Click on ‘+’ Sign → Select for JARs or directories
 2. **Open file scenario** → Open on the folder `/src/main/java/automation_login`.
